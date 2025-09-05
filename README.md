@@ -46,12 +46,7 @@ Hệ thống Quản lý Đặt vé Xem phim được xây dựng nhằm hỗ tr�
 
 ## 3. Hình ảnh các chức năng
 
-## 🚀 4. Các project đã thực hiện dựa trên Platform
-
-Một số project sinh viên đã thực hiện:
-- #### [Khoá 15](./docs/projects/K15/README.md)
-- #### [Khoá 16]() (Coming soon)
-## 5. Các bước cài đặt
+## 4. Các bước cài đặt
 1. **Cài đặt XAMPP**  
 
 2. **Tạo cơ sở dữ liệu**  
